@@ -1,0 +1,1 @@
+I make a website with recipes for Jian Bing, sushi, and lasagna. I use solely HTML to create the website; tags like <img> are used to include photos and specify their dimensions; <a> is used to include links to other HTML sites and for annotation. To emphasize a point, I also utilize tags like <strong>. 
