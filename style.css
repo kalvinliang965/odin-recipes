@@ -1,0 +1,19 @@
+p {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.jian-bing-img,
+.lasagna-img,
+.sushi-img {
+    height: 310px;
+    width: auto;
+}
